@@ -98,12 +98,9 @@ To replicate the analysis or apply the methodology to your dataset:
    git clone <https://github.com/Taufiq-Ahmed-pranto/Customer-Segmentation-for-Targeted-Marketing-Strategies>
    ```
 
-2. run the jupyter notebook file with correct dataset attached in this repository.
-   
+2. Open the Jupyter notebooks provided in the repository to follow the analysis workflow.
 
-3. Open the Jupyter notebooks provided in the repository to follow the analysis workflow.
-
-4. Customize the code to analyze your own dataset as needed.
+3. Customize the code to analyze your own dataset as needed.
 
 ---
 
